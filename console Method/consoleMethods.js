@@ -133,3 +133,8 @@ function myFunction() {
 function myOtherFunction() {
   console.trace();
 }
+
+// ========================= dir Method =====================================
+// ____________________ Example 1 ____________________________
+const arr = [1,2,3,4,5];
+console.dir(arr);

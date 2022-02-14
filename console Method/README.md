@@ -118,3 +118,15 @@ The **`console`** object provides access to the browser's debugging console
     The `time()` method starts a timer in the console view.
     
     The `time()` method allows you to time code for testing purposes.
+    
+- console.dir()
+    - 
+    
+    ```jsx
+    const arr = [1,2,3,4,5];
+    console.dir(arr);
+    ```
+    
+    The `console.dir()` method displays an interactive list of all the properties of a specified object.
+    
+    It is presented as a hierarchical listing of methods and properties of an object with closure triangles. Simply `console.dir()` let us see all the properties of a specified Javascript object.
