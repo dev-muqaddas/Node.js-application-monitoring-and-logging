@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dev-muqaddas/Node.js-application-monitoring-and-logging/issues"
   },
-  "homepage": "https://github.com/dev-muqaddas/Node.js-application-monitoring-and-logging#readme"
+  "homepage": "https://github.com/dev-muqaddas/Node.js-application-monitoring-and-logging#readme",
+  "dependencies": {
+    "winston": "^3.6.0"
+  }
 }
